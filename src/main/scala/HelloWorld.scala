@@ -3,7 +3,7 @@ object HelloWorld {
     println("hello world11")
     println("aaa")
     println("123")
-    println("bb1")
+    1+1
   }
 
 }
