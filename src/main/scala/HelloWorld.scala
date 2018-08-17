@@ -11,6 +11,8 @@ object HelloWorld {
     println("123")
     println("aaa")
     println("aaa")
+    println("123")
+    println("123")
   }
 
 }
