@@ -3,6 +3,8 @@ object HelloWorld {
     println("aaa")
     println("123")
     println("bb1")
+    println("123")
+    println("bb1")
   }
 
 }
