@@ -4,6 +4,7 @@ object HelloWorld {
     println("aaa")
     println("123")
     1+1
+    println("bb1")
   }
 
 }
